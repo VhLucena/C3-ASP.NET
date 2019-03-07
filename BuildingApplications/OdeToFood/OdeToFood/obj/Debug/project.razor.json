@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\vinicius.santos\\Desktop\\GitHub\\C3-ASP.NET\\BuildingApplications\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+  "TargetFramework": "v4.6.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
